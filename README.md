@@ -1,4 +1,4 @@
-# WP Blank Theme
+# WordPress Options Panel
 
 Forked of a [NHP-Theme-Options-Framework](https://github.com/leemason/NHP-Theme-Options-Framework).
 
