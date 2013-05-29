@@ -409,15 +409,15 @@ $sections[] = array(
 						'sub_desc' => __('No validation can be done on this field type', 'vg-opts'),
 						'desc' => __('This is the description field, again good for additional info.', 'vg-opts')
 						),
-					// array(
-					// 	'id' => '18',
-					// 	'type' => 'button_set',
-					// 	'title' => __('Button Set Option', 'vg-opts'), 
-					// 	'sub_desc' => __('No validation can be done on this field type', 'vg-opts'),
-					// 	'desc' => __('This is the description field, again good for additional info.', 'vg-opts'),
-					// 	'options' => array('1' => 'Opt 1','2' => 'Opt 2','3' => 'Opt 3'),//Must provide key => value pairs for radio options
-					// 	'std' => '2'
-					// 	),
+					array(
+						'id' => '18',
+						'type' => 'button_set',
+						'title' => __('Button Set Option', 'vg-opts'), 
+						'sub_desc' => __('No validation can be done on this field type', 'vg-opts'),
+						'desc' => __('This is the description field, again good for additional info.', 'vg-opts'),
+						'options' => array('1' => 'Opt 1','2' => 'Opt 2','3' => 'Opt 3'),//Must provide key => value pairs for radio options
+						'std' => '2'
+						),
 					array(
 						'id' => '19',
 						'type' => 'upload',
