@@ -1,4 +1,10 @@
 <?php
+// Place bellow into your theme's functions.php file
+// if(!class_exists('VG_Options')){
+//   require_once( dirname( __FILE__ ) . '/options/vg-options.php' ); // Load Options Panel
+// }
+
+
 /*
  * 
  * Require the framework class before doing anything else, so we can use the defined urls and dirs
